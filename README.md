@@ -1,4 +1,4 @@
-# 10650_ssm493家具销售库存管理信息系统的设计与实现+jsp
+# 10650_ssm家具销售库存管理信息系统的设计与实现+jsp
   
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10650
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10650
 
 * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10650_ssm493%E5%AE%B6%E5%85%B7%E9%94%80%E5%94%AE%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%2Bjsp%E5%BD%95%E5%83%8F.mp4
 
